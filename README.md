@@ -1,5 +1,4 @@
 # rpi2023fall-hw
-<Gird>
-<Button>
-</Button>
-</Gird>
+<Grid>
+<Button Name="button1">Hello</Button>
+</Grid>
